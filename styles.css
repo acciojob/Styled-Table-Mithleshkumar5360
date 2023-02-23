@@ -1,1 +1,16 @@
 /* your code */
+
+table{
+	width:80%;
+	
+	border:1px solid;
+	border-radius:7px;
+}
+th,td{
+	height:20px;
+	
+}
+.heading{
+			background-color:lightblue;
+		}
+
